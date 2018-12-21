@@ -1,0 +1,30 @@
+{
+    "manufacter": {
+        "name": "BMW",
+        "country": "Alemania"
+    }, 
+    "engine": {
+        "gears": "1",
+        "transmission": "Manual", 
+        "type": "B"
+    }, 
+    "description": "La G310R es la gran apuesta de BMW diseñada para conquistar nuevos clientes, un perfil de motorista joven que se acaba de sacar el carnet y quiere disfrutar de una BMW a un precio asequible. Una moto sencilla, dinámica y fiable que refleja la esencia de la marca con una buena relación calidad-precio.",
+    "id": "bmw-g310r-2017",
+    "images": [
+        "img/motos/bmw-g310r-2017.jpg",
+        "img/motos/bmw-g310r-2017-1.jpg",
+        "img/motos/bmw-g310r-2017-2.jpg"
+    ], 
+    "name": "BMW G310R 2017",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1399.5 mm (w)", 
+            "1595.8 mm (h)", 
+            "4218.9 mm (l)"
+        ], 
+        "weight": "159.0 Kg"
+    }, 
+    "space": {
+        "volume": "10.5L"
+    }
+}

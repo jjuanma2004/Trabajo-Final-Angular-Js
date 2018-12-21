@@ -1,0 +1,29 @@
+{
+    "manufacter": {
+        "name": "AJS",
+        "country": "China"
+    }, 
+    "engine": {
+        "gears": "1",
+        "transmission": "Automatic", 
+        "type": "A"
+    }, 
+    "description": "La AJS Cadwell 125 nace para recuperar las motos diseñadas para divertir y excitar a quienes las llevan, recuperando el espíritu de los años 50 y 60. Lógicamente, en un primer vistazo seguro que nos recuerdan a las MASH Cafe Racer y las Hanway Raw 125 aunque se pueden encontrar diferencias a simple vista tanto en el lugar de montaje del disco de freno o el motor.",
+    "images": [
+        "img/motos/ajs-cadwell-125.jpg",
+        "img/motos/ajs-cadwell-125-1.jpg",
+        "img/motos/ajs-cadwell-125-2.jpg"
+    ], 
+    "name": "AJS Cadwell 125",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1806.9 mm (w)", 
+            "1595.8 mm (h)", 
+            "4377.4 mm (l)"
+        ], 
+        "weight": "113.0 Kg"
+    }, 
+    "space": {
+        "volume": "70L"
+    }
+}

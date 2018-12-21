@@ -1,0 +1,16 @@
+[
+  {
+    "model": 2018,
+    "id": "ajs-cadwell-125",
+    "imageUrl": "img/motos/ajs-cadwell-125.jpg",
+    "name": "AJS Cadwell 125",
+    "snippet": "La AJS Cadwell 125 nace para recuperar las motos diseñadas para divertir y excitar a quienes las llevan, recuperando el espíritu de los años 50 y 60."
+  },
+  {
+    "model": 2017,
+    "id": "bmw-g310r-2017",
+    "imageUrl": "img/motos/bmw-g310r-2017.jpg",
+    "name": "BMW G310R 2017",
+    "snippet": "La G310R es la gran apuesta de BMW diseñada para conquistar nuevos clientes, un perfil de motorista joven que se acaba de sacar el carnet y quiere disfrutar de una BMW a un precio asequible."
+  }
+]
